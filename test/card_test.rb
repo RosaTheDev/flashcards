@@ -12,4 +12,6 @@ class CardTest < Minitest::Test
     # binding.pry
     assert_equal expected, card.answer
   end
+
+  
 end
